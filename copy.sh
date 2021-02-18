@@ -1,2 +1,2 @@
 #!/bin/sh
-rclone copy onedrive: gdrive_mirror:Frank --transfers 48 -v
+rclone copy E3H: GD_acz:H --transfers 48 -v
