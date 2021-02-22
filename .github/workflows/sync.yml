@@ -2,7 +2,7 @@ name: Drive Sync
 on:
     push:
     schedule:
-        - cron: '0 0 0/7 * *'
+        - cron: '0 8 ? * 2'
 jobs:
     move:
         name: OneDrive to Google Drive Sync
